@@ -9,15 +9,24 @@ Whether you are a beginner looking to understand `public static void main` or an
 
 ## 📂 Contents
 
-1. Overview
+1. **Overview**
 
-   1. [Hello World](./src/java01_overview/hello/Main.java)
+   - **[Hello World](./src/java01_overview/hello/Main.java)**
 
-2. Data Types
+2. **Data Types**
 
-   1. [Comment](./src/java02_DataTypes/comment/Main.java)
-   2. [Variables](./src/java02_DataTypes/variables/Main.java)
-   3. [Constants](./src/java02_DataTypes/constants/Main.java)
+   - **[Comment](./src/java02_DataTypes/comment/Main.java)**
+   - **[Variables](./src/java02_DataTypes/variables/Main.java)**
+   - **[Constants](./src/java02_DataTypes/constants/Main.java)**
+
+3. **IO**
+
+   - **[Output](./src/java03_InputOutput/output/Main.java)**
+   - **Input**
+      - **[Reading Input from Keyboard](./src/java03_InputOutput/input/ReadingKeyboard/Main.java)**
+      - **[Using Console class](./src/java03_InputOutput/input/ConsoleClass/Main.java)**
+      - **[Using Scanner class](./src/java03_InputOutput/input/ScannerClass/Main.java)**
+      - **[Using Buffer Reader](./src/java03_InputOutput/input/BufferedReader/Main.java)**
 
 ---
 
@@ -25,8 +34,8 @@ Whether you are a beginner looking to understand `public static void main` or an
 
 ### Prerequisites
 
-* **JDK 17 or higher** installed.
-* A terminal (Command Prompt, PowerShell, or Termux) or an IDE like **IntelliJ IDEA**.
+- **JDK 17 or higher** installed.
+- A terminal (Command Prompt, PowerShell, or Termux) or an IDE like **IntelliJ IDEA**.
 
 ### Running via Terminal
 
@@ -50,7 +59,7 @@ Whether you are a beginner looking to understand `public static void main` or an
 
 ---
 
-### ✍️ Author: Nilesh Medda
+## ✍️ Author: Nilesh Medda
 
 If you find this repository helpful, feel free to ⭐ star it!
 
