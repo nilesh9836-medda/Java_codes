@@ -1,9 +1,9 @@
 
 # ☕ Mastering Java From Basic
 
-Welcome to my Java learning journey! This repository is a comprehensive collection of Java source code, ranging from fundamental syntax to advanced software design patterns.
+*Welcome, to my Java learning journey! This repository is a comprehensive collection of Java source code, ranging from fundamental syntax to advanced software design patterns.*
 
-Whether you are a beginner looking to understand `public static void main` or an advanced developer exploring `Streams`, this repo serves as a structured roadmap.
+*Whether you are a beginner looking to understand `public static void main` or an advanced developer exploring `Streams`, this repo serves as a structured roadmap.*
 
 ---
 
