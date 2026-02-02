@@ -11,9 +11,13 @@ Whether you are a beginner looking to understand `public static void main` or an
 
 1. Overview
 
-   a. [Hello World](./src/java01_overview/hello/Main.java)
+   1. [Hello World](./src/java01_overview/hello/Main.java)
 
-2. 
+2. Data Types
+
+   1. [Comment](./src/java02_DataTypes/comment/Main.java)
+   2. [Variables](./src/java02_DataTypes/variables/Main.java)
+   3. [Constants](./src/java02_DataTypes/constants/Main.java)
 
 ---
 
