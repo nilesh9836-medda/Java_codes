@@ -19,7 +19,7 @@
    - **[Variables](./src/java02_DataTypes/variables/Main.java)**
    - **[Constants](./src/java02_DataTypes/constants/Main.java)**
 
-3. **IO**
+3. **I/O**
 
    - **[Output](./src/java03_InputOutput/output/Main.java)**
    - **Input**
@@ -27,6 +27,20 @@
       - **[Using Console class](./src/java03_InputOutput/input/ConsoleClass/Main.java)**
       - **[Using Scanner class](./src/java03_InputOutput/input/ScannerClass/Main.java)**
       - **[Using Buffer Reader](./src/java03_InputOutput/input/BufferedReader/Main.java)**
+
+4. **Operators**
+
+   - **[Arithmetic Operators](./src/java04_operators/arithmetics/Main.java)**
+   - **[Relational Operators](./src/java04_operators/relational/Main.java)**
+   - **[Logical Operators](./src/java04_operators/logical/Main.java)**
+
+5. **If...Else**
+
+   - **[Even or Odd number](./src/java05_IfElse/oddeven/Main.java)**
+   - **[Largest Number](./src/java05_IfElse/largest/Main.java)**
+   - **[Leap Year](./src/java05_IfElse/leapyear/Main.java)**
+   - **[Grade](./src/java05_IfElse/grade/Main.java)**
+   - **[Calculator](./src/java05_IfElse/calculator/Main.java)**
 
 ---
 
