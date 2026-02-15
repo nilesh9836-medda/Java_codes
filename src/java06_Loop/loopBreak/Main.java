@@ -1,4 +1,4 @@
-package src.java06_Loop.java06_Loop.breakLoop;
+package src.java06_Loop.loopBreak;
 
 public class Main {
     public static void main(String[] args) {
